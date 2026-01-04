@@ -31,7 +31,7 @@ An interactive menu-driven program for processing text.
     * **Word Count:** Count words by analyzing spaces and character transitions.
 * **Key Concepts:** `switch` statements, `do-while` loops, algorithm design.
 * ![Exercise 3 Result](screenshots/Screenshot%202026-01-04%20015428.png)
-* * ![Exercise 3 Result](screenshots/Screenshot%202026-01-04%20015549.png)
+* * ![Exercise 1 Result](screenshots/Screenshot%202026-01-04%20015549.png)
 ### 4. Character Frequency Analysis (Exercise 4)
 A program that analyzes the frequency of letters in a text.
 * **Features:**
@@ -39,6 +39,6 @@ A program that analyzes the frequency of letters in a text.
     * Counts occurrences of every letter (A-Z), ignoring case.
     * Displays the count for letters that appear at least once.
 * **Key Concepts:** Arrays as counters, ASCII arithmetic, character class methods.
-* ![Exercise 4 Result](screenshots/Screenshot%202026-01-04%20015657.png)
+
 ---
 *Created as part of a Java OOP learning session.*
